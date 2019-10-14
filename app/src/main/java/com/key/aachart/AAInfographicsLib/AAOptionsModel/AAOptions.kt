@@ -8,9 +8,7 @@
  */
 
 package com.key.aachart.AAInfographicsLib.AAOptionsModel
-
 import com.key.aachart.AAInfographicsLib.AAChartConfiger.AASeriesElement
-import com.key.keylibrary.AAInfographicsLib.AAOptionsModel.*
 
 class AAOptions {
     var chart: AAChart? = null

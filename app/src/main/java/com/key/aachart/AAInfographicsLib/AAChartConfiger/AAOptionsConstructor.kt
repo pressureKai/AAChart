@@ -36,7 +36,6 @@
  */
 package com.key.aachart.AAInfographicsLib.AAChartConfiger
 import com.key.aachart.AAInfographicsLib.AAOptionsModel.*
-import com.key.keylibrary.AAInfographicsLib.AAOptionsModel.*
 
 
 object AAOptionsConstructor {
